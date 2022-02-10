@@ -1,7 +1,7 @@
 # Resume
 My Module 2 Final Challenge - Professional Portfolio
 
-![Deployed Application](https://yourfunkydad.github.io/Resume/)
+## [Deployed Application](https://yourfunkydad.github.io/Resume/)
 
 Using Run Buddy as my blueprint, I have been building and editing off of pre-existing code. This has been my biggest ally as I have been having extreme difficulties remembering syntax. 
 
